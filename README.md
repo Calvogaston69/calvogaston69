@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" wisth="200" />
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" wisth="1000" />
   <h1 align="center"> Hola👋 Mi nombre es Max</h1>
   <h3 align="center">Estudiante apasionado por la programación y los videojuegos 💻🎮</h3>
    </div>
