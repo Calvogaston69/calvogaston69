@@ -5,7 +5,7 @@
    </div>
 
   <div id="badges" align="center">
-    <a herf="https://twitter.com/MaxRoostie">
+    <a href="https://twitter.com/MaxRoostie">
   <img src="https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=social&url=MaxRoostie" 
        alt= "Twitter Badge" />
       </a>
