@@ -17,8 +17,8 @@
 
 - Me gustan los tacos 🌮
 - Soy de México.
-- Tengo 18 años.
-- Mi cantante Favorito es Paulo londra.
+- Tengo 30 años.
+- Mi cantante Favorito es kunno y kenia Os.
 - Mi correo: max723310@gmail.com ✉️📫
-
+soy infiel
 -->
