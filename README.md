@@ -17,8 +17,4 @@
 
 - Me gustan los tacos 🌮
 - Soy de México.
-- Tengo 30 años.
-- Mi cantante Favorito es kunno y kenia Os.
-- Mi correo: max723310@gmail.com ✉️📫
-soy infiel
--->
+- Mi correo: max723310@gmail.com ✉️📫-->
